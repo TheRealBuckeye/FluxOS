@@ -1,0 +1,13 @@
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\bin\Debug\netcoreapp3.1\FluxOS Linux.exe
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\bin\Debug\netcoreapp3.1\FluxOS Linux.deps.json
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\bin\Debug\netcoreapp3.1\FluxOS Linux.runtimeconfig.json
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\bin\Debug\netcoreapp3.1\FluxOS Linux.runtimeconfig.dev.json
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\bin\Debug\netcoreapp3.1\FluxOS Linux.dll
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\bin\Debug\netcoreapp3.1\FluxOS Linux.pdb
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\obj\Debug\netcoreapp3.1\FluxOS Linux.csprojAssemblyReference.cache
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\obj\Debug\netcoreapp3.1\FluxOS Linux.csproj.CoreCompileInputs.cache
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\obj\Debug\netcoreapp3.1\FluxOS Linux.AssemblyInfoInputs.cache
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\obj\Debug\netcoreapp3.1\FluxOS Linux.AssemblyInfo.cs
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\obj\Debug\netcoreapp3.1\FluxOS Linux.dll
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\obj\Debug\netcoreapp3.1\FluxOS Linux.pdb
+T:\Wesley's Stuff\C#\Projects\FluxOS Linux\FluxOS Linux\obj\Debug\netcoreapp3.1\FluxOS Linux.genruntimeconfig.cache
