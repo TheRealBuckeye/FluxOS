@@ -1,0 +1,8 @@
+D:\C#\Projects\FluxOS\bin\Debug\FluxOS.exe.config
+D:\C#\Projects\FluxOS\bin\Debug\FluxOS.exe
+D:\C#\Projects\FluxOS\bin\Debug\FluxOS.pdb
+D:\C#\Projects\FluxOS\obj\Debug\FluxOS.exe
+D:\C#\Projects\FluxOS\obj\Debug\FluxOS.pdb
+D:\C#\Projects\FluxOS\obj\Debug\FluxOS.csprojAssemblyReference.cache
+T:\Wesley's Stuff\C#\Projects\FluxOS\obj\Debug\FluxOS.exe
+T:\Wesley's Stuff\C#\Projects\FluxOS\obj\Debug\FluxOS.pdb
